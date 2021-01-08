@@ -51,4 +51,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
 - [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=radical)
