@@ -1,4 +1,4 @@
-## [![stephen ajulu's header](images/145ace97964294c36724db8c9dd86010-picsay.jpg?raw=true)](https://stephenajulu.com)
+## [![stephen ajulu's header](images/145ace97964294c36724db8c9dd86010-picsaygit.jpg?raw=true)](https://stephenajulu.com)
 
 <p align='center'>
 <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png"></a>&nbsp;
