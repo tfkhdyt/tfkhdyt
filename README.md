@@ -9,14 +9,13 @@
 <a href="https://open.spotify.com/playlist/4JR5wqcnuOQw6ppF38Vpu9?si=zHMKBfCiRrGVamKsL8LXqQ"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png"></a>
 </p>
 
-<i align=center>Assalamu'alaikum Wr. Wb.</i>
-<h2 align="center">Halo semuanya! Nama saya <b>Taufik Hidayat</b>. 👋👋👋</h2>
-<p align="center">Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
+<h2 align="center">Perkenalan 👋</h2>
+<p align="center"><i>Assalamu'alaikum Wr. Wb.</i><br>Halo semuanya! Nama saya <b>Taufik Hidayat</b>. Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
 Saya saat ini berkuliah di <b>Universitas Bale Bandung</b> jurusan <b>Teknik Informatika</b>.
 Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal</b> dan <b>SQL</b>.
 Saat saya sedang tidak ngoding, kalian dapat menemukan saya di channel <b>YouTube</b> saya, menulis artikel di <b>blog</b> pribadi saya, menonton <b>film, tv series,</b> maupun <b>anime</b>, sharing meme dan shitpost di <b>Facebook</b>, mengerjakan tugas <b>kuliah</b>, dan mendengarkan musik di playlist <b>Spotify</b> saya.
 Saya berbicara 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b>.
-Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.
+Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.<br>
 <i align=center>Wassalamu'alaikum Wr. Wb.</i></p>
 
 ![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=radical)
