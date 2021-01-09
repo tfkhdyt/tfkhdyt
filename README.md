@@ -14,7 +14,7 @@
 Saya saat ini berkuliah di <b>Universitas Bale Bandung</b> jurusan <b>Teknik Informatika</b>.
 Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal</b> dan <b>SQL</b>.
 Kegiatan saya saat tidak ngoding ialah membuat konten di channel <b>YouTube</b> saya, menulis artikel di <b>blog</b> pribadi saya, menonton <b>film, tv series,</b> maupun <b>anime</b>, sharing meme dan shitpost di <b>Facebook</b>, mengerjakan tugas <b>kuliah</b>, dan mendengarkan musik di playlist <b>Spotify</b> saya.
-Saya berbicara 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b>.
+Saya menguasai 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b>.
 Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.<br>
 <i align=center>Wassalamu'alaikum Wr. Wb.</i></p>
 
