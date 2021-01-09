@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/playlist/4JR5wqcnuOQw6ppF38Vpu9?si=zHMKBfCiRrGVamKsL8LXqQ"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png"></a>
 </p>
 
-<h2>Perkenalan 👋</h2>
+<h3>Perkenalan 👋</h3>
 <p align="center"><i>Assalamu'alaikum Wr. Wb.</i><br>Halo semuanya! Nama saya <b>Taufik Hidayat</b>. Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
 Saya saat ini berkuliah di <b>Universitas Bale Bandung</b> jurusan <b>Teknik Informatika</b>.
 Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal</b> dan <b>SQL</b>.
