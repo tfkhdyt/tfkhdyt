@@ -13,10 +13,19 @@
 <h3>Perkenalan 👋</h3>
 <p align="center"><i>Assalamu'alaikum Wr. Wb.</i><br>Halo semuanya! Nama saya <b>Taufik Hidayat</b>. Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
 Saya saat ini berkuliah di <b>Universitas Bale Bandung</b> jurusan <b>Teknik Informatika</b>.
-Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal, Python, C++, Javascript, Firebase</b> dan <b>SQL</b>.
+Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal, Python, C++, JavaScript, Firebase</b> dan <b>SQL</b>.
 Kegiatan saya saat tidak ngoding ialah membuat konten di channel <b>YouTube</b> saya, menulis artikel di <b>blog</b> pribadi saya, menonton <b>film, tv series,</b> maupun <b>anime</b>, sharing meme dan shitpost di <b>Facebook</b>, mengerjakan tugas <b>kuliah</b>, dan mendengarkan musik di playlist <b>Spotify</b> saya.
 Saya menguasai 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b>.
 Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.<br>
 <i align=center>Wassalamu'alaikum Wr. Wb.</i></p>
 
 ![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=radical)
+
+### Support
+Klik tombol di bawah untuk mendukung saya lewat donasi
+
+<p align="center">
+  <a href="https://donate.tfkhdyt.my.id/">
+    <img src="https://i.postimg.cc/jjRDbZQx/1621036430601.png" width="125px">
+  </a>
+</p>
