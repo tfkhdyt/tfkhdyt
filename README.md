@@ -19,7 +19,14 @@ Saya menguasai 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b
 Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.<br>
 <i align=center>Wassalamu'alaikum Wr. Wb.</i></p>
 
-![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=radical)
+### Stats
+
+<p align="center">
+
+![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=5&theme=tokyonight)
+
+</p>
 
 ### Support
 Klik tombol di bawah untuk mendukung saya lewat donasi
