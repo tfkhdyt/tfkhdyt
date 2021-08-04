@@ -24,7 +24,8 @@ Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lain
 <p align="center">
 
 ![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact)
+
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less)
 
 
 </p>
