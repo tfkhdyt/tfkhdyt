@@ -9,18 +9,17 @@
   <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
   <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a>
 </p>
-<h3>Perkenalan 👋</h3>
-<div>
-<div align="center"><i>Assalamu'alaikum Wr. Wb.</i></div><br/>Halo semuanya! Nama saya <b>Taufik Hidayat</b>. Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
+
+### Perkenalan 👋
+<div align="center"><i>Assalamu'alaikum Wr. Wb.</i></div>Halo semuanya! Nama saya <b>Taufik Hidayat</b>. Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
 Saya saat ini berkuliah di <b>Universitas Bale Bandung</b> jurusan <b>Teknik Informatika</b>.
 Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal, Python, C++, JavaScript, Firebase, MongoDB</b> dan <b>MySQL</b>.
 Kegiatan saya saat tidak ngoding ialah membuat konten di channel <b>YouTube</b> saya, menulis artikel di <b>blog</b> pribadi saya, menonton <b>film, tv series,</b> maupun <b>anime</b>, sharing meme dan shitpost di <b>Facebook</b>, mengerjakan tugas <b>kuliah</b>, dan mendengarkan musik di playlist <b>Spotify</b> saya.
 Saya menguasai 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b>.
 Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.<br>
-<div align="center"><i align=center>Wassalamu'alaikum Wr. Wb.</i></div>
-</div>
+<div align="center"><i>Wassalamu'alaikum Wr. Wb.</i></div>
 
-### Stats
+### Stats 📋
 
 <p align="center">
 
@@ -31,7 +30,7 @@ Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lain
 
 </p>
 
-### Support
+### Support 💰
 Klik tombol di bawah untuk mendukung saya lewat donasi
 
 <p align="center">
