@@ -13,10 +13,10 @@
 ### Perkenalan 👋
 <div align="center"><i>Assalamu'alaikum Wr. Wb.</i></div>Halo semuanya! Nama saya <b>Taufik Hidayat</b>. Saya adalah seorang <b>Full Stack Developer</b> dan <b>Content Creator</b> dari <b>Bandung, Indonesia</b>.
 Saya saat ini berkuliah di <b>Universitas Bale Bandung</b> jurusan <b>Teknik Informatika</b>.
-Saya saat ini menguasai <b>HTML, CSS, PHP, Shell, Java, Pascal, Python, C++, JavaScript, Firebase, MongoDB</b> dan <b>MySQL</b>.
-Kegiatan saya saat tidak ngoding ialah membuat konten di channel <b>YouTube</b> saya, menulis artikel di <b>blog</b> pribadi saya, menonton <b>film, tv series,</b> maupun <b>anime</b>, sharing meme dan shitpost di <b>Facebook</b>, mengerjakan tugas <b>kuliah</b>, dan mendengarkan musik di playlist <b>Spotify</b> saya.
+Saya saat ini menguasai <b>HTML, CSS, JavaScript, Node.js, PHP, Shell, Java, Python, C++, Pascal, Firebase, MongoDB</b> dan <b>MySQL</b>.
+Kegiatan saya saat tidak mengoding yaitu membuat konten di channel <b>YouTube</b>, bermain <b>game</b>, menonton <b>film, tv series,</b> maupun <b>anime</b>, sharing meme dan shitpost di <b>Facebook</b>, mengerjakan tugas <b>kuliah</b>, dan mendengarkan musik di playlist <b>Spotify</b> saya.
 Saya menguasai 3 bahasa, yaitu <b>Bahasa Indonesia, Sunda,</b> dan <b>Inggris</b>.
-Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya lainnya 😉.<br>
+Cukup sekian perkenalan dari saya, dan sampai jumpa di project-project saya yang lainnya 😉.<br>
 <div align="center"><i>Wassalamu'alaikum Wr. Wb.</i></div>
 
 ### Stats 📋
