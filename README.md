@@ -128,6 +128,13 @@
       <br/>EJS
     </td>
   </tr>
+    <td align="center" width="96">
+      <img src="https://sweetalert2.github.io/images/SweetAlert2.png" height="48" />
+      <br/>sweetalert2
+    </td>
+  <tr>
+    
+  </tr>
 </table>
 
 ### Stats 📋
