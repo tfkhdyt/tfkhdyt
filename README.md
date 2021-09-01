@@ -28,7 +28,7 @@
     - 🇬🇧 English
 
 ### Languages and Tools 💻
-<table align="center">
+<table>
   <tr>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="36" />
@@ -145,7 +145,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,le" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less" />
 </p>
 
 ### Support 💰
