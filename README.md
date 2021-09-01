@@ -119,6 +119,14 @@
       <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="48" />
       <br/>GoogleFonts
     </td>
+    <td align="center" width="96">
+      <img src="https://telegraf.js.org/media/logo.svg" height="48" />
+      <br/>Telegraf
+    </td>
+    <td align="center" width="96">
+      <img src="images/icons/ejs.svg" height="48" />
+      <br/>EJS
+    </td>
   </tr>
 </table>
 
