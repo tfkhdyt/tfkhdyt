@@ -54,11 +54,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48"/>
       <br/>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48"/>
       <br/>CSS
     </td>
     <td align="center" width="96">
