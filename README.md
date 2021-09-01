@@ -28,7 +28,7 @@
     - 🇬🇧 English
 
 ### Languages and Tools 💻
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48" />
