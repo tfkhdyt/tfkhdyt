@@ -30,112 +30,112 @@
 ### Languages and Tools 💻
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="36" />
       <br/>HTML
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="36" />
       <br/>CSS
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="36" />
       <br/>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="36" />
       <br/>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="36" />
       <br/>Python
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="36" />
       <br/>Shell
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="36" />
       <br/>C++
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="36" />
       <br/>PHP
     </td>
-    <td align="center" width="96">
-      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="48" />
+    <td align="center" width="72">
+      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="36" />
       <br/>Pascal
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="48" width='48' />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36" width='48' />
       <br/>Node.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="images/icons/express.svg" height="48" width='48' />
+    <td align="center" width="72">
+      <img src="images/icons/express.svg" height="36" width='48' />
       <br/>Express.js
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="48" width='48' />
+    <td align="center" width="72">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" width='48' />
       <br/>React.js
     </td>
-    <td align="center" width="96">
-      <img src="images/icons/jquery.svg" height="48" />
+    <td align="center" width="72">
+      <img src="images/icons/jquery.svg" height="36" />
       <br/>jQuery
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
       <br/>Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
       <br/>FontAwesome
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
       <br/>GoogleFonts
     </td>
-    <td align="center" width="96">
-      <img src="https://telegraf.js.org/media/logo.svg" height="48" />
+    <td align="center" width="72">
+      <img src="https://telegraf.js.org/media/logo.svg" height="36" />
       <br/>Telegraf
     </td>
-    <td align="center" width="96">
-      <img src="images/icons/ejs.svg" height="48" />
+    <td align="center" width="72">
+      <img src="images/icons/ejs.svg" height="36" />
       <br/>EJS
     </td>
-    <td align="center" width="96">
-      <img src="images/icons/mongo.svg" height="48"/>
+    <td align="center" width="72">
+      <img src="images/icons/mongo.svg" height="36"/>
       <br/>mongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="48"/>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="36"/>
       <br/>MySQL
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="48"/>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="36"/>
       <br/>SQLite
     </td>
-    <td align="center" width="96">
-      <img src="images/icons/firebase.svg" height="48"/>
+    <td align="center" width="72">
+      <img src="images/icons/firebase.svg" height="36"/>
       <br/>Firebase
     </td>
-    <td align="center" width="96">
-      <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="48"/>
+    <td align="center" width="72">
+      <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="36"/>
       <br/>Vercel
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="48"/>
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="36"/>
       <br/>Netlify
     </td>
-    <td align="center" width="96">
-      <img src="images/icons/heroku.svg" height="48"/>
+    <td align="center" width="72">
+      <img src="images/icons/heroku.svg" height="36"/>
       <br/>Heroku
     </td>
   </tr>
