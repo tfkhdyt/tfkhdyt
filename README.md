@@ -90,6 +90,24 @@
       <br/>Pascal
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="48" width='48' />
+      <br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="images/icons/express.svg" height="48" width='48' />
+      <br/>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="48" width='48' />
+      <br/>React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" height="48" />
+      <br/>jQuery
+    </td>
+  </tr>
 </table>
 
 ### Stats 📋
