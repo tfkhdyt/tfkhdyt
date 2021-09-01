@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
   <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a>
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
+  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=Follow&style=social"/></a>
+</p>
 
 #### Full-Stack Developer, YouTuber, and Tech Enthusiast
 
