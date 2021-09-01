@@ -38,6 +38,7 @@
   - 📁 Databases
     - MySQL
     - MongoDB
+    - SQLite
   - 🌐 Services
     - Google Firebase
     - Vercel
