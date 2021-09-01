@@ -26,31 +26,8 @@
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
     - 🇬🇧 English
-  - 🤖 Programming Languages
-    - JavaScript
-      - React.js
-      - Express.js
-      - Node.js
-      - Telegraf
-      - EJS
-    - Java
-    - Python
-    - Shell
-    - C++
-    - PHP
-    - Pascal
-  - 📁 Databases
-    - MySQL
-    - MongoDB
-    - SQLite
-  - 🌐 Services
-    - Google Firebase
-    - Vercel
-    - Netlify
-    - Heroku
-    - MongoDB Atlas
 
-### Languages and Tools
+### Languages and Tools 💻
 <table>
   <tr>
     <td align="center" width="96">
@@ -73,6 +50,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" />
       <br/>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="48" />
       <br/>Shell
@@ -89,12 +68,12 @@
       <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="48" />
       <br/>Pascal
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="48" width='48' />
       <br/>Node.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="images/icons/express.svg" height="48" width='48' />
       <br/>Express.js
@@ -115,6 +94,8 @@
       <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="48" />
       <br/>FontAwesome
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="48" />
       <br/>GoogleFonts
@@ -127,13 +108,36 @@
       <img src="images/icons/ejs.svg" height="48" />
       <br/>EJS
     </td>
-  </tr>
     <td align="center" width="96">
-      <img src="https://sweetalert2.github.io/images/SweetAlert2.png" height="48" />
-      <br/>sweetalert2
+      <img src="images/icons/mongo.svg" height="48"/>
+      <br/>mongoDB
     </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="48"/>
+      <br/>MySQL
+    </td>
+  </tr>
   <tr>
-    
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="48"/>
+      <br/>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="images/icons/firebase.svg" height="48"/>
+      <br/>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="48"/>
+      <br/>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="48"/>
+      <br/>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="images/icons/heroku.svg" height="48"/>
+      <br/>Heroku
+    </td>
   </tr>
 </table>
 
