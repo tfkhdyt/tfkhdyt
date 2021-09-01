@@ -50,6 +50,48 @@
     - Heroku
     - MongoDB Atlas
 
+### Languages and Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="48"/>
+      <br/>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="48"/>
+      <br/>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="48"/>
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="images/icons/java.svg" height="48"/>
+      <br/>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48"/>
+      <br/>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="48"/>
+      <br/>Shell
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="48"/>
+      <br/>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="48"/>
+      <br/>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="48"/>
+      <br/>Pascal
+    </td>
+  </tr>
+</table>
+
 ### Stats 📋
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true" />
