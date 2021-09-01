@@ -54,39 +54,39 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48" />
       <br/>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48" />
       <br/>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="48" />
       <br/>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="48" />
       <br/>Java
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" />
       <br/>Python
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="48" />
       <br/>Shell
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="48" />
       <br/>C++
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="48" width="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="48" />
       <br/>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="48" width="48"/>
+      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="48" />
       <br/>Pascal
     </td>
   </tr>
@@ -104,8 +104,20 @@
       <br/>React.js
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" height="48" />
+      <img src="images/icons/jquery.svg" height="48" />
       <br/>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="48" />
+      <br/>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="48" />
+      <br/>FontAwesome
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="48" />
+      <br/>GoogleFonts
     </td>
   </tr>
 </table>
