@@ -66,7 +66,7 @@
       <br/>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="images/icons/java.svg" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="48"/>
       <br/>Java
     </td>
     <td align="center" width="96">
