@@ -47,15 +47,8 @@
     - MongoDB Atlas
 
 ### Stats 📋
-
-<p align="center">
-
-![tfkhdyt's Github Stats](https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less)
-
-
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,le" />
 
 ### Support 💰
 Press the button below to support me via donation
