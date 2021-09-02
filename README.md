@@ -116,7 +116,7 @@
       <br/>GoogleFonts
     </td>
     <td align="center" width="72">
-      <img src="images/icons/swal2.png" height="36" />
+      <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png" height="36" />
       <br/>sweetalert2
     </td>
     <td align="center" width="72">
@@ -170,7 +170,7 @@
       <br/>Heroku
     </td>
     <td align="center" width="72">
-      <img src="images/icons/rumahweb.png" height="36"/>
+      <img src="https://secure.gravatar.com/avatar/891bc6f217e3846575ec16381d521b10?s=200&d=mm&r=g" height="36"/>
       <br/>rumahweb
     </td>
     <td align="center" width="72">
