@@ -116,8 +116,8 @@
       <br/>GoogleFonts
     </td>
     <td align="center" width="72">
-      <img src="https://sweetalert2.github.io/images/SweetAlert2.png" height="36" />
-      <br/>&nbsp;&nbsp;&nbsp;&nbsp;sweetalert2&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="images/icons/swal2.png" height="36" />
+      <br/>sweetalert2
     </td>
     <td align="center" width="72">
       <img src="https://axios-http.com/assets/logo.svg" height="36" />
@@ -170,8 +170,8 @@
       <br/>Heroku
     </td>
     <td align="center" width="72">
-      <img src="https://www.rumahweb.com/journal/wp-content/uploads/2020/04/logo-rumahweb-panjang-tr-sm-e1587132069649.png" height="36"/>
-      <br/>&nbsp;&nbsp;&nbsp;rumahweb&nbsp;&nbsp;&nbsp;
+      <img src="images/icons/rumahweb.png" height="36"/>
+      <br/>rumahweb
     </td>
     <td align="center" width="72">
       <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/47fcb9400000640005023f0b/0x0.png" height="36"/>
