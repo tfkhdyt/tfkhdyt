@@ -30,6 +30,9 @@
 ### Languages and Tools 💻
 <table align="center">
   <tr>
+    <th>
+      Languages
+    </th>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="36" />
       <br/>HTML
@@ -50,11 +53,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="36" />
       <br/>Python
     </td>
-  </tr>
-  <tr>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="36" />
-      <br/>Shell
+      <br/>Bash
     </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="36" />
@@ -68,37 +69,26 @@
       <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="36" />
       <br/>Pascal
     </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36" width='48' />
-      <br/>Node.js
-    </td>
   </tr>
   <tr>
+    <th>
+      JavaScript Related
+    </th>
     <td align="center" width="72">
-      <img src="images/icons/express.svg" height="36" width='48' />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
+      <br/>Node.js
+    </td>
+    <td align="center" width="72">
+      <img src="images/icons/express.svg" height="36" />
       <br/>Express.js
     </td>
     <td align="center" width="72">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" width='48' />
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" />
       <br/>React.js
     </td>
     <td align="center" width="72">
       <img src="images/icons/jquery.svg" height="36" />
       <br/>jQuery
-    </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
-      <br/>Bootstrap
-    </td>
-    <td align="center" width="72">
-      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
-      <br/>FontAwesome
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="72">
-      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
-      <br/>GoogleFonts
     </td>
     <td align="center" width="72">
       <img src="https://telegraf.js.org/media/logo.svg" height="36" />
@@ -108,6 +98,44 @@
       <img src="images/icons/ejs.svg" height="36" />
       <br/>EJS
     </td>
+  </tr>
+  <tr>
+    <th>
+      Dependencies
+    </th>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
+      <br/>Bootstrap
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
+      <br/>Fontawesome
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
+      <br/>GoogleFonts
+    </td>
+    <td align="center" width="72">
+      <img src="https://sweetalert2.github.io/images/SweetAlert2.png" height="36" />
+      <br/>&nbsp;&nbsp;&nbsp;&nbsp;sweetalert2&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="72">
+      <img src="https://axios-http.com/assets/logo.svg" height="36" />
+      <br/>Axios
+    </td>
+    <td align="center" width="72">
+      <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" height="36" />
+      <br/>dotenv
+    </td>
+    <td align="center" width="72">
+      <img src="https://bestofjs.org/logos/howler.svg" height="36" />
+      <br/>Howler.js
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Databases
+    </th>
     <td align="center" width="72">
       <img src="images/icons/mongo.svg" height="36"/>
       <br/>mongoDB
@@ -116,12 +144,15 @@
       <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="36"/>
       <br/>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="36"/>
       <br/>SQLite
     </td>
+  </tr>
+  <tr>
+    <th>
+      Hosting
+    </th>
     <td align="center" width="72">
       <img src="images/icons/firebase.svg" height="36"/>
       <br/>Firebase
@@ -137,6 +168,14 @@
     <td align="center" width="72">
       <img src="images/icons/heroku.svg" height="36"/>
       <br/>Heroku
+    </td>
+    <td align="center" width="72">
+      <img src="https://www.rumahweb.com/journal/wp-content/uploads/2020/04/logo-rumahweb-panjang-tr-sm-e1587132069649.png" height="36"/>
+      <br/>&nbsp;&nbsp;&nbsp;rumahweb&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="72">
+      <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/47fcb9400000640005023f0b/0x0.png" height="36"/>
+      <br/>000webhost
     </td>
   </tr>
 </table>
