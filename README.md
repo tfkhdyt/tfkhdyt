@@ -21,7 +21,7 @@
   - 🏠 Live in `Bandung, Indonesia`
   - 👶🏻 Born in `Majalengka, April 1st 2002`
   - 🧍🏻‍♂️ `19` years old
-  - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung`
+  - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung (UNI🅱️🅱️A)`
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
