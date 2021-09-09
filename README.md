@@ -14,14 +14,14 @@
   <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=Follow&style=social"/></a>
 </p>
 
-#### Full-Stack Developer, YouTuber, and Tech Enthusiast
+#### Full Stack Developer, YouTuber, and Tech Enthusiast
 
 ### About Me 👨🏻
   - 👨🏻‍💼 My name is `Taufik Hidayat`
   - 🏠 Live in `Bandung, Indonesia`
   - 👶🏻 Born in `Majalengka, April 1st 2002`
   - 🧍🏻‍♂️ `19` years old
-  - 💻 `Informatics Engineering` Student from `Universitas Bale Bandung`
+  - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung`
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
