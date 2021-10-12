@@ -15,7 +15,7 @@
 </p>
 
 #### Full Stack Developer, YouTuber, Tech Enthusiast, and Professional Googler*
-<sub><sup>* I don't use Google Search anymore, it's only slang for "internet surfer". I prefer using <a href="https://searx.be/">Searx</a></sup></sub>
+<sub><sup>* I don't use Google Search anymore, it's only slang for "internet surfer". I prefer using <a href="https://searx.tiekoetter.com">Searx</a></sup></sub>
 
 ### About Me 👨🏻
   - 👨🏻‍💼 My name is `Taufik Hidayat`
