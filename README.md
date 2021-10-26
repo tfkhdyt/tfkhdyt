@@ -183,7 +183,7 @@
 
 ### Stats 📋
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less" />
 </p>
