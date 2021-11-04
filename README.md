@@ -14,7 +14,7 @@
   <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=Follow&style=social"/></a>
 </p>
 
-#### Full Stack Developer, YouTuber, Tech Enthusiast, and Professional Googler*
+#### Full Stack Developer, Informatics Students, YouTuber, Tech Enthusiast, and Professional Googler*
 <sub><sup>* I don't use Google Search anymore, it's only slang for "internet surfer". I prefer using <a href="https://searx.be">Searx</a></sup></sub>
 
 ### About Me 👨🏻
