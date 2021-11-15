@@ -15,7 +15,7 @@
 </p>
 
 #### Full Stack Developer, Informatics Students, YouTuber, Tech Enthusiast, and Professional Googler*
-<sub><sup>* I don't use Google Search anymore, it's only slang for "internet surfer". I prefer using <a href="https://searx.be">Searx</a></sup></sub>
+<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://searx.be">Searx</a></sup></sub>
 
 ### About Me 👨🏻
   - 👨🏻‍💼 My name is `Taufik Hidayat`
@@ -23,6 +23,7 @@
   - 👶🏻 Born in `Majalengka, April 1st 2002`
   - 🧍🏻‍♂️ `19` years old
   - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung (UNI🅱️🅱️A)`
+  - 🌟 Currently, `JavaScript` is my favorite programming language.
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
