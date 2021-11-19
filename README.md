@@ -1,4 +1,4 @@
-## [![tfkhdyt's header](images/145ace97964294c36724db8c9dd86010-picsaygit.jpg?raw=true)](https://tfkhdyt.web.blog)
+## [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
   <a href="https://facebook.com/tfkhdyt142"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
