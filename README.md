@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=Follow&style=social"/></a>
+  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
 </p>
 
 #### Full Stack Developer, Informatics Student, YouTuber, Free/Libre and Open Source Software Enthusiast, and Professional Googler*
