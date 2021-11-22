@@ -64,6 +64,10 @@
       <br/>C++
     </td>
     <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="36" />
+      <br/>Rust
+    </td>
+    <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="36" />
       <br/>PHP
     </td>
