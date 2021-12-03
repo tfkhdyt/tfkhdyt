@@ -93,6 +93,10 @@
       <br/>React.js
     </td>
     <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="36" />
+      <br/>Next.js
+    </td>
+    <td align="center" width="72">
       <img src="images/icons/jquery.svg" height="36" />
       <br/>jQuery
     </td>
@@ -112,6 +116,10 @@
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
       <br/>Bootstrap
+    </td>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="36" />
+      <br/>TailwindCSS
     </td>
     <td align="center" width="72">
       <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
@@ -136,6 +144,10 @@
     <td align="center" width="72">
       <img src="https://bestofjs.org/logos/howler.svg" height="36" />
       <br/>Howler.js
+    </td>
+    <td align="center" width="72">
+      <img src="https://pngpress.com/wp-content/uploads/2020/04/Moment.JS-Logo-free-png.png" height="36" />
+      <br/>Moment.js
     </td>
   </tr>
   <tr>
