@@ -149,6 +149,10 @@
       <img src="https://pngpress.com/wp-content/uploads/2020/04/Moment.JS-Logo-free-png.png" height="36" />
       <br/>Moment.js
     </td>
+    <td align="center" width="72">
+      <img src="https://raw.githubusercontent.com/chalk/chalk/main/media/logo.svg" height="36" />
+      <br/>Chalk
+    </td>
   </tr>
   <tr>
     <th>
