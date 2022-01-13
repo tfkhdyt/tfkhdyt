@@ -48,6 +48,10 @@
       <br/>JavaScript
     </td>
     <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="36" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="36" />
       <br/>Java
     </td>
@@ -206,7 +210,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=8&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
 </p>
 
 ### Support 💰
