@@ -15,7 +15,7 @@
 </p>
 
 #### Full Stack Developer, Informatics Student, YouTuber, Free/Libre and Open Source Software Enthusiast, and Professional Googler*
-<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://searx.be">Searx</a></sup></sub>
+<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://paulgo.io">SearXNG</a></sup></sub>
 
 ### About Me 👨🏻
   - 👨🏻‍💼 My name is `Taufik Hidayat`
@@ -23,7 +23,7 @@
   - 👶🏻 Born in `Majalengka, April 1st 2002`
   - 🧍🏻‍♂️ `19` years old
   - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung (UNI🅱️🅱️A)`
-  - 🌟 Currently, `JavaScript` is my favorite programming language.
+  - 🌟 Currently, `TypeScript` is my favorite programming language.
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
@@ -194,6 +194,10 @@
     <td align="center" width="72">
       <img src="images/icons/heroku.svg" height="36"/>
       <br/>Heroku
+    </td>
+    <td align="center" width="72">
+      <img src="https://s3.amazonaws.com/technori-bucket/wordpress/wp-content/uploads/2017/08/30015258/fly-logo.png" height="36"/>
+      <br/>Fly.io
     </td>
     <td align="center" width="72">
       <img src="images/icons/rumahweb.png" height="36"/>
