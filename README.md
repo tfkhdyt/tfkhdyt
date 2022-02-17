@@ -93,6 +93,10 @@
       <br/>Express.js
     </td>
     <td align="center" width="72">
+      <img src="https://docs.nestjs.com/assets/logo-small.svg" height="36" />
+      <br/>Nest.js
+    </td>
+    <td align="center" width="72">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" />
       <br/>React.js
     </td>
@@ -115,7 +119,7 @@
   </tr>
   <tr>
     <th>
-      Dependencies
+      Front-end Related
     </th>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
@@ -133,30 +137,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
       <br/>GoogleFonts
     </td>
-    <td align="center" width="72">
-      <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png" height="36" />
-      <br/>sweetalert2
-    </td>
-    <td align="center" width="72">
-      <img src="https://axios-http.com/assets/logo.svg" height="36" />
-      <br/>Axios
-    </td>
-    <td align="center" width="72">
-      <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" height="36" />
-      <br/>dotenv
-    </td>
-    <td align="center" width="72">
-      <img src="https://bestofjs.org/logos/howler.svg" height="36" />
-      <br/>Howler.js
-    </td>
-    <td align="center" width="72">
-      <img src="https://pngpress.com/wp-content/uploads/2020/04/Moment.JS-Logo-free-png.png" height="36" />
-      <br/>Moment.js
-    </td>
-    <td align="center" width="72">
-      <img src="https://raw.githubusercontent.com/chalk/chalk/main/media/logo.svg" height="36" />
-      <br/>Chalk
-    </td>
+    
   </tr>
   <tr>
     <th>
