@@ -32,9 +32,7 @@
 ### Languages and Tools 💻
 <table align="center">
   <tr>
-    <th>
-      Languages
-    </th>
+    <th>Front-end</th>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="36" />
       <br/>HTML
@@ -50,6 +48,55 @@
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="36" />
       <br/>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <th>Front-end Framework/Library</th>
+    <td align="center" width="72">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" />
+      <br/>React.js
+    </td>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="36" />
+      <br/>Next.js
+    </td>
+    <td align="center" width="72">
+      <img src="images/icons/jquery.svg" height="36" />
+      <br/>jQuery
+    </td>
+  </tr>
+  <tr>
+    <th>Front-end Dependencies</th>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
+      <br/>Bootstrap
+    </td>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="36" />
+      <br/>TailwindCSS
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
+      <br/>Fontawesome
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
+      <br/>GoogleFonts
+    </td>
+  </tr>
+  <tr>
+    <th>Back-end</th>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="36" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="36" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
+      <br/>Node.js
     </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="36" />
@@ -79,15 +126,13 @@
       <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="36" />
       <br/>Pascal
     </td>
+    <td align="center" width="72">
+      <img src="images/icons/ejs.svg" height="36" />
+      <br/>EJS
+    </td>
   </tr>
   <tr>
-    <th>
-      JavaScript Related
-    </th>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
-      <br/>Node.js
-    </td>
+    <th>Back-end Framework</th>  
     <td align="center" width="72">
       <img src="images/icons/express.svg" height="36" />
       <br/>Express.js
@@ -97,47 +142,9 @@
       <br/>Nest.js
     </td>
     <td align="center" width="72">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" />
-      <br/>React.js
-    </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="36" />
-      <br/>Next.js
-    </td>
-    <td align="center" width="72">
-      <img src="images/icons/jquery.svg" height="36" />
-      <br/>jQuery
-    </td>
-    <td align="center" width="72">
       <img src="https://telegraf.js.org/media/logo.svg" height="36" />
       <br/>Telegraf
     </td>
-    <td align="center" width="72">
-      <img src="images/icons/ejs.svg" height="36" />
-      <br/>EJS
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Front-end Related
-    </th>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
-      <br/>Bootstrap
-    </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="36" />
-      <br/>TailwindCSS
-    </td>
-    <td align="center" width="72">
-      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
-      <br/>Fontawesome
-    </td>
-    <td align="center" width="72">
-      <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
-      <br/>GoogleFonts
-    </td>
-    
   </tr>
   <tr>
     <th>
@@ -145,7 +152,7 @@
     </th>
     <td align="center" width="72">
       <img src="images/icons/mongo.svg" height="36"/>
-      <br/>mongoDB
+      <br/>MongoDB
     </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="36"/>
