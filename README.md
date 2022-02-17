@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <th>Front-end Framework/Library</th>
+    <th>Front-end Framework</th>
     <td align="center" width="72">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" />
       <br/>React.js
@@ -76,8 +76,8 @@
       <br/>TailwindCSS
     </td>
     <td align="center" width="72">
-      <img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" height="36" />
-      <br/>Fontawesome
+      <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" height="36" />
+      <br/>daisyUI
     </td>
     <td align="center" width="72">
       <img src="https://cdn.worldvectorlogo.com/logos/google-fonts-2021-2.svg" height="36" />
@@ -107,10 +107,6 @@
       <br/>Python
     </td>
     <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="36" />
-      <br/>Bash
-    </td>
-    <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="36" />
       <br/>C++
     </td>
@@ -129,6 +125,10 @@
     <td align="center" width="72">
       <img src="images/icons/ejs.svg" height="36" />
       <br/>EJS
+    </td>
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="36" />
+      <br/>Golang
     </td>
   </tr>
   <tr>
