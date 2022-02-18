@@ -24,6 +24,7 @@
   - 🧍🏻‍♂️ `19` years old
   - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung (UNI🅱️🅱️A)`
   - 🌟 Currently, `TypeScript` is my favorite programming language.
+  - 👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
