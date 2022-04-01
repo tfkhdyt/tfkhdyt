@@ -24,7 +24,7 @@
   - 👨🏻‍💼 My name is `Taufik Hidayat`
   - 🏠 Live in `Bandung, Indonesia`
   - 👶🏻 Born in `Majalengka, April 1st 2002`
-  - 🧍🏻‍♂️ `19` years old
+  - 🧍🏻‍♂️ `20` years old
   - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung (UNI🅱️🅱️A)`
   - 🌟 Currently, `TypeScript` is my favorite programming language.
   - 👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)
