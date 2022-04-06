@@ -17,7 +17,7 @@
   </a>
 </p>
 
-#### Full Stack JavaScript Developer, Informatics Student, YouTuber, Free/Libre and Open Source Software Enthusiast, and Professional Googler*
+#### Junior Full Stack TypeScript Developer, Informatics Student, YouTuber, Free/Libre and Open Source Software Enthusiast, and Professional Googler*
 <sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://paulgo.io">SearXNG</a></sup></sub>
 
 ### About Me 👨🏻
