@@ -18,14 +18,14 @@
 </p>
 
 #### Junior Full Stack TypeScript Developer, Informatics Student, YouTuber, Free/Libre and Open Source Software Enthusiast, and Professional Googler*
-<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://paulgo.io">SearXNG</a></sup></sub>
+<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://search.brave.com">Brave Search</a></sup></sub>. 
 
 ### About Me 👨🏻
   - 👨🏻‍💼 My name is `Taufik Hidayat`
   - 🏠 Live in `Bandung, Indonesia`
   - 👶🏻 Born in `Majalengka, April 1st 2002`
   - 🧍🏻‍♂️ `20` years old
-  - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung (UNI🅱️🅱️A)`
+  - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung`
   - 🌟 Currently, `TypeScript` is my favorite programming language.
   - 👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)
   - 🌏 Languages
