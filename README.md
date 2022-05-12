@@ -17,7 +17,7 @@
   </a>
 </p>
 
-#### Junior Full Stack TypeScript Developer, Informatics Student, YouTuber, Free/Libre and Open Source Software Enthusiast, and Professional Googler*
+#### Junior Full Stack TypeScript Developer - Informatics Student - YouTuber - Free/Libre and Open Source Software Enthusiast - Linux User - and Professional Googler*
 <sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://search.brave.com">Brave Search</a></sup></sub>. 
 
 ### About Me 👨🏻
@@ -46,6 +46,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.svg" height="18" />
   <img src="https://docs.nestjs.com/assets/logo-small.svg" height="18" />
   <img src="https://telegraf.js.org/media/logo.svg" height="18" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="18" />
   <img src="images/icons/mongo.svg" height="18"/>
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" height="18"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="18" />
