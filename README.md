@@ -67,9 +67,6 @@
 
 ### Stats 📋
 <p align="center">
-  <img align="center" src="https://metrics.lecoq.io/tfkhdyt" alt="Github Metrics" />
-  <img alt="TFKHDYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tfkhdyt&bg_color=1A1B27&color=70A4FC&line=70A4FC&point=FFFFFF&hide_border=true&" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tfkhdyt&theme=github_dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
