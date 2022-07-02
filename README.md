@@ -18,7 +18,7 @@
 </p>
 
 #### Junior Full Stack TypeScript Developer - Informatics Student - YouTuber - Free/Libre and Open Source Software Enthusiast - Linux User - and Professional Googler*
-<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://search.brave.com">Brave Search</a></sup></sub>. 
+<sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://startpage.com">Startpage</a></sup></sub>. 
 
 ### About Me 👨🏻
   - 👨🏻‍💼 My name is `Taufik Hidayat`
@@ -26,8 +26,9 @@
   - 👶🏻 Born in `Majalengka, April 1st 2002`
   - 🧍🏻‍♂️ `20` years old
   - 💻 `Informatics Engineering` Student at `Universitas Bale Bandung`
-  - 🌟 Currently, `TypeScript` is my favorite programming language.
-  - 👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)
+  - 🌟 Currently, `TypeScript` and `Golang` are my favorite programming languages.
+  - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~ 
+  - 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`)
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇮🇩 Sundanese
@@ -35,34 +36,35 @@
 
 ### Tech Stack 👨🏻‍💻
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="18" />    
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="18" />
-  <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="18" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="18" />
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="18" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="18" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.svg" height="18" />
-  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="18" />
-  <img src="https://telegraf.js.org/media/logo.svg" height="18" />
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" height="18 />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="18" />
-  <img src="images/icons/mongo.svg" height="18"/>
-  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" height="18"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="18" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="18" title="JavaScript" />    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="18" title="TypeScript" />
+  <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="18" title="Golang" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="18" title="React" />
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" height="18" title="Redux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="18" title="Next.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="18" title="Tailwind CSS" />
+  <img src="https://i.postimg.cc/1zY3VDPL/mantine.png" height="18" title="Mantine UI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="18" title="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="18" title="Node.js" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.svg" height="18" title="Express.js" />
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="18" title="NestJS" />
+  <img src="https://telegraf.js.org/media/logo.svg" height="18" title="Telegraf" />
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" height="18" title="Gin" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="18" title="GNU/Linux" />
+  <img src="images/icons/mongo.svg" height="18" title="MongoDB" />
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" height="18" title="MariaDB" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="18" title="PostgreSQL" />
 </span>
 
 ### Basic Experience 📖
 <span>
-  <img src="images/icons/jquery.svg" height="18" />
-  <img src="https://raw.githubusercontent.com/tfkhdyt/web-portfolio/main/public/icons/java.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="18" />
-  <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="18" />
+  <img src="images/icons/jquery.svg" height="18" title="jQuery" />
+  <img src="https://raw.githubusercontent.com/tfkhdyt/web-portfolio/main/public/icons/java.svg" height="18" title="Java" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="18" title="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="18" title="C++" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="18" title="PHP" />
+  <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="18" title="Pascal" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="18" title="Rust" />
 </span>
 
 ### Stats 📋
