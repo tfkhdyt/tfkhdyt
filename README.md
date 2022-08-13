@@ -17,7 +17,7 @@
   </a>
 </p>
 
-#### Junior Full Stack TypeScript Developer - Informatics Student - YouTuber - Free/Libre and Open Source Software Enthusiast - Linux User - and Professional Googler\*
+#### Junior Full Stack Developer - Computer Science Student - Free/Libre and Open Source Software Enthusiast - Linux User - YouTuber - and Professional Googler\*
 
 <sub><sup>\* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://gatotkaca.tfkhdyt.my.id">GatotKaca</a></sup></sub>.
 
@@ -27,7 +27,7 @@
 - 🏠 Live in `Bandung, Indonesia`
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `20` years old
-- 💻 `Informatics Engineering` Student at `Universitas Bale Bandung`
+- 💻 `Computer Science` Student at `Universitas Bale Bandung`
 - 🌟 Currently, `TypeScript` and `Golang` are my favorite programming languages.
 - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
 - 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`)
