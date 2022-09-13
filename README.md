@@ -89,7 +89,7 @@
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 12L
     - `Custom ROM` - Nusantara Project 4.8
-    - `Kernel` - SilonT Morgann
+    - `Kernel` - SilonT Morgan
 
 ### Stats 📋
 
