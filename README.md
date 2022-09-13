@@ -72,6 +72,25 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="30" title="Rust" />
 </span>
 
+### Equipment 🧰
+
+- `Laptop` - Lenovo Ideapad Slim 3
+  - `CPU` - AMD Ryzen 3 5300U
+  - `RAM` - 8GB DDR4 3200MHz
+  - `GPU` - AMD Vega 6
+  - `Operating System` - GNU/Linux
+    - `Distro` - EndeavourOS
+    - `Kernel` - 5.19
+    - `WM` - i3-gaps
+- `Text Editor` - VSCodium, Neovim
+- `Browser` - FireDragon, Ungoogled Chromium
+- `Terminal` - Alacritty
+- `Shell` - zsh
+- `Mobile Phone` - Realme 3 Pro
+  - `Operating System` - Android 12L
+    - `Custom ROM` - Nusantara Project 4.8
+    - `Kernel` - SilonT Morgann
+
 ### Stats 📋
 
 <p align="center">
