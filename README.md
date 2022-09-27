@@ -43,7 +43,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="30" title="Golang" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" height="30" title="Redux" />
+  <img src="https://www.tfkhdyt.my.id/_next/image?url=%2Fimages%2Ftech%2Fjotai.png&w=3840&q=100" height="30" title="Jotai" />
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js" /> -->
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
