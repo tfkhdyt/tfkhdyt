@@ -17,9 +17,7 @@
   </a>
 </p>
 
-#### Junior Full Stack Developer - Computer Science Student - Free/Libre and Open Source Software Enthusiast - Linux User - YouTuber - and Professional Googler\*
-
-<sub><sup>\* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://gatotkaca.tfkhdyt.my.id">GatotKaca</a></sup></sub>.
+#### Junior Full Stack Developer - Computer Science Student - Free/Libre and Open Source Software Enthusiast - GNU/Linux User - YouTuber
 
 ### About Me 👨🏻
 
@@ -83,13 +81,13 @@
     - `Kernel` - 5.19
     - `WM` - i3-gaps
 - `Text Editor` - VSCodium, Neovim
-- `Browser` - FireDragon, Ungoogled Chromium
+- `Browser` - Firefox, Brave
 - `Terminal` - Alacritty
 - `Shell` - zsh
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 12L
     - `Custom ROM` - Nusantara Project 4.8
-    - `Kernel` - SilonT Morgan
+    - `Kernel` - Liquid
 
 ### Stats 📋
 
@@ -97,6 +95,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact" />
 </p>
 
 ### Support 💰
