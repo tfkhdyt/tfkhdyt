@@ -78,7 +78,7 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 5.19
+    - `Kernel` - 6.0
     - `WM` - i3-gaps
 - `Text Editor` - VSCodium, Neovim
 - `Browser` - Firefox, Brave
