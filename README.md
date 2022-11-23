@@ -1,24 +1,35 @@
-## [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
+# [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
-  <a href="https://facebook.com/tfkhdyt142"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
-  <a rel="me" href="https://fosstodon.org/@tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg"></a>&nbsp;
-  <a href="https://twitter.com/tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>&nbsp;
-  <a href="https://instagram.com/_tfkhdyt_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-  <a href="https://youtube.com/tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_social_red_circle_%282017%29.svg"></a>&nbsp;
-  <a href="https://t.me/tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"></a>&nbsp;
+  <a rel="me" href="https://fosstodon.org/@tfkhdyt">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" />
+  </a>&nbsp;
+  <a rel="me" href="https://matrix.to/#/@tfkhdyt:matrix.org">
+    <img height="28" src="https://cdn.fosstodon.org/custom_emojis/images/000/435/156/original/a99cd4ef25ea1d9a.png" />
+  </a>&nbsp;
+  <a href="https://t.me/tfkhdyt">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
+  </a>&nbsp;
+  <a href="https://facebook.com/tfkhdyt142">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
+  </a>&nbsp;
+  <a href="https://youtube.com/tfkhdyt">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_social_red_circle_%282017%29.svg" />
+  </a>&nbsp;
+  <!-- <a href="https://twitter.com/tfkhdyt"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"></a>&nbsp; -->
   <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-  <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a>
+  <a href="https://instagram.com/_tfkhdyt_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+  <!-- <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
   <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
-  <a href='https://stackshare.io/tfkhdyt/mn3'>
-    <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' />
-  </a>
+  <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
+  <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
+  <!-- </a> -->
 </p>
 
-#### Junior Full Stack Developer - Computer Science Student - FLOSS Enthusiast - GNU/Linux Geek
+### Junior Full Stack Developer | Computer Science Student | FLOSS Enthusiast | GNU/Linux Geek
 
 ### About Me 👨🏻
 
@@ -44,7 +55,7 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <img src="https://www.tfkhdyt.my.id/_next/image?url=%2Fimages%2Ftech%2Fjotai.png&w=3840&q=100" height="30" title="Jotai" />
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js" /> -->
-  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" /> 
+  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
   <img src="https://i.postimg.cc/1zY3VDPL/mantine.png" height="30" title="Mantine UI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="30" title="Bootstrap" />
@@ -57,6 +68,8 @@
   <img src="images/icons/mongo.svg" height="30" title="MongoDB" />
   <img src="https://www.silicon.de/wp-content/uploads/2014/12/MariaDB-reflex-blue-seal-blue-lettering-below-600px.png" height="30" title="MariaDB" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
+  <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="30" title="Redis" />
+  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker" />
 </span>
 
 ### Basic Experience 📖
@@ -81,14 +94,14 @@
     - `Distro` - EndeavourOS
     - `Kernel` - 6.0
     - `WM` - i3-gaps
-- `Text Editor` - VSCodium, Neovim
+- `Text Editor` - Neovim (LunarVim)
 - `Browser` - Firefox, Brave
 - `Terminal` - Alacritty
 - `Shell` - zsh
 - `Mobile Phone` - Realme 3 Pro
-  - `Operating System` - Android 12L
-    - `Custom ROM` - Nusantara Project 4.8
-    - `Kernel` - Liquid
+  - `Operating System` - Android 13
+    - `Custom ROM` - Nusantara Project 5.1
+    - `Kernel` - Stock
 
 ### Stats 📋
 
