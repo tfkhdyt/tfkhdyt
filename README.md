@@ -1,3 +1,5 @@
+# MOVED TO [CODEBERG](https://codeberg.org/tfkhdyt) !!!
+
 # [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
