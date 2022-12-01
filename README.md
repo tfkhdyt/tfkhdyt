@@ -110,7 +110,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact&langs_count=10" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
 </p>
 
