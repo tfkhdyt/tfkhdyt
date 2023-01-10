@@ -4,9 +4,6 @@
   <a rel="me" href="https://fosstodon.org/@tfkhdyt">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" />
   </a>&nbsp;
-  <a rel="me" href="https://matrix.to/#/@tfkhdyt:matrix.org">
-    <img height="28" src="https://cdn.fosstodon.org/custom_emojis/images/000/435/156/original/a99cd4ef25ea1d9a.png" />
-  </a>&nbsp;
   <a href="https://t.me/tfkhdyt">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
   </a>&nbsp;
@@ -29,7 +26,7 @@
   <!-- </a> -->
 </p>
 
-### Junior Full Stack Developer | Computer Science Student | FLOSS Enthusiast | GNU/Linux Geek
+### Junior Full Stack Developer | Computer Science Student | FLOSS Enthusiast | GNU/Linux Nerd
 
 ### About Me 👨🏻
 
@@ -38,13 +35,13 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `20` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `TypeScript` and `Golang` are my favorite programming languages.
-- ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
-- 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`)
+- 🌟 Currently, `SvelteKit` and `Rust` are my favorite tech stack.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
   - 🇬🇧 English
+<!-- - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
+- 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`) -->
 
 ### Tech Stack 👨🏻‍💻
 
@@ -52,17 +49,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="30" title="Golang" />
+  <img src="https://presentations.bltavares.com/ouvi-falar-de-rust/ferris.png" height="30" title="Rust" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
-  <img src="https://www.tfkhdyt.my.id/_next/image?url=%2Fimages%2Ftech%2Fjotai.png&w=3840&q=100" height="30" title="Jotai" />
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js" /> -->
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" />
+  <img src="https://impicode.com/wp-content/uploads/sites/2/2020/07/187px-Svelte_Logo.svg_.png" height="30" title="Svelte" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
   <img src="https://i.postimg.cc/1zY3VDPL/mantine.png" height="30" title="Mantine UI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="30" title="Bootstrap" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" />
   <img src="https://expressjs.com/images/favicon.png" height="30" title="Express.js" />
+  <img src="https://cdn-images.threadless.com/threadless-media/artist_shops/shops/hapi/profile/logo-1570768754-a51532d05eb8460747b7207862c647ab.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJyZXNpemUiLCBbMzUwXSwge31dXX0=" height="30" title="Hapi.js" />
   <img src="https://docs.nestjs.com/assets/logo-small.svg" height="30" title="NestJS" />
   <img src="https://telegraf.js.org/media/logo.svg" height="30" title="Telegraf" />
+  <img src="https://wwebjs.dev/logo.png" height="30" title="WhatsApp-Web.js" />
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" height="30" title="Gin" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
   <img src="images/icons/mongo.svg" height="30" title="MongoDB" />
@@ -92,16 +91,16 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.0
-    - `WM` - i3-gaps
+    - `Kernel` - 5.15
+    - `WM` - i3-wm
 - `Text Editor` - Neovim (LunarVim)
-- `Browser` - Firefox, Brave
+- `Browser` - LibreWolf, Brave
 - `Terminal` - Alacritty
 - `Shell` - zsh
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 13
-    - `Custom ROM` - Nusantara Project 5.1
-    - `Kernel` - Stock
+    - `Custom ROM` - Nusantara Project 5.3
+    - `Kernel` - Liquid
 
 ### Stats 📋
 
