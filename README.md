@@ -105,10 +105,11 @@
 ### Stats 📋
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact&langs_count=10" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tfkhdyt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=tfkhdyt%20tech%20stack&align=center&lineHeight=10&lineCount=6&theme=catppuccin_mocha&line1=TypeScript,TypeScript,3178C6;Go,Go,00ADD8;Rust,Rust,e66100;&line2=React,React,61DAFB;Next.js,Next.js,ffffff;Svelte,Svelte,FF3E00;Tailwind%20CSS,Tailwind%20CSS,06B6D4;&line3=Node.js,Node.js,339933;Express,Express,ffffff;NestJS,NestJS,E0234E;&line4=PostgreSQL,PostgreSQL,4169E1;MySQL,MySQL,4479A1;MongoDB,MongoDB,47A248;Redis,Redis,DC382D;&line5=Linux,Linux,FCC624;Arch%20Linux,Arch%20Linux,1793D1;Debian,Debian,A81D33;&line6=Docker,Docker,2496ED;RabbitMQ,RabbitMQ,FF6600;" alt="My Tech Stack" />
 </p>
 
 ### Support 💰
