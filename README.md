@@ -1,4 +1,4 @@
-# [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
+﻿# [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
   <a rel="me" href="https://fosstodon.org/@tfkhdyt">
@@ -91,12 +91,12 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 5.15
+    - `Kernel` - 6.1
     - `WM` - i3-wm
 - `Text Editor` - Neovim (LunarVim)
 - `Browser` - LibreWolf, Brave
 - `Terminal` - Alacritty
-- `Shell` - zsh
+- `Shell` - Fish
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 13
     - `Custom ROM` - Nusantara Project 5.3
