@@ -92,11 +92,11 @@
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
     - `Kernel` - 6.1
-    - `WM` - i3-wm
-- `Text Editor` - Neovim (LunarVim)
+    - `WM` - dwm
+- `Text Editor` - Neovim (LazyVim)
 - `Browser` - LibreWolf, Brave
-- `Terminal` - Alacritty
-- `Shell` - Fish
+- `Terminal` - st
+- `Shell` - fish
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 13
     - `Custom ROM` - Nusantara Project 5.3
