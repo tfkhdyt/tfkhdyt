@@ -1,4 +1,4 @@
-﻿# [![tfkhdyt's header](https://i.postimg.cc/WzQ1smNx/new-tfkhdyt-small-banner.jpg)](https://tfkhdyt.my.id/)
+﻿# [![tfkhdyt's header](./images/tfkhdyt-banner-16-3.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
   <a rel="me" href="https://fosstodon.org/@tfkhdyt">
