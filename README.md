@@ -28,6 +28,8 @@
 
 ### Junior Full Stack Developer | Computer Science Student | FLOSS Enthusiast | GNU/Linux Nerd
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### About Me 👨🏻
 
 - 👨🏻‍💼 My name is `Taufik Hidayat`
@@ -42,6 +44,8 @@
   - 🇬🇧 English
 <!-- - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
 - 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Tech Stack 👨🏻‍💻
 
@@ -82,6 +86,8 @@
   <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="30" title="Pascal" />
 </span>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Equipment 🧰
 
 - `Laptop` - Lenovo Ideapad Slim 3
@@ -90,7 +96,7 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.1
+    - `Kernel` - 6.2
     - `WM` - dwm
 - `Text Editor` - Neovim (LazyVim)
 - `Browser` - LibreWolf, Brave
@@ -98,8 +104,10 @@
 - `Shell` - fish
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 13
-    - `Custom ROM` - Nusantara Project 5.3
+    - `Custom ROM` - Nusantara Project 5.5
     - `Kernel` - Liquid
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Stats 📋
 
@@ -110,6 +118,8 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=tfkhdyt%20tech%20stack&align=center&lineHeight=10&lineCount=6&theme=catppuccin_mocha&line1=TypeScript,TypeScript,3178C6;Go,Go,00ADD8;Rust,Rust,e66100;&line2=React,React,61DAFB;Next.js,Next.js,ffffff;Svelte,Svelte,FF3E00;Tailwind%20CSS,Tailwind%20CSS,06B6D4;&line3=Node.js,Node.js,339933;Express,Express,ffffff;NestJS,NestJS,E0234E;&line4=PostgreSQL,PostgreSQL,4169E1;MySQL,MySQL,4479A1;MongoDB,MongoDB,47A248;Redis,Redis,DC382D;&line5=Linux,Linux,FCC624;Arch%20Linux,Arch%20Linux,1793D1;Debian,Debian,A81D33;&line6=Docker,Docker,2496ED;RabbitMQ,RabbitMQ,FF6600;" alt="My Tech Stack" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Support 💰
 
