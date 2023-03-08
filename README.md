@@ -37,7 +37,7 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `20` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `SvelteKit` and `Rust` are my favorite tech stack.
+- 🌟 Currently, `SvelteKit` and `Golang` are my favorite tech stack.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
