@@ -1,4 +1,4 @@
-﻿# [![tfkhdyt's header](./images/tfkhdyt-banner-16-3.jpg)](https://tfkhdyt.my.id/)
+[![tfkhdyt's header](./images/tfkhdyt-banner-16-3.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
   <a rel="me" href="https://fosstodon.org/@tfkhdyt">
@@ -26,7 +26,7 @@
   <!-- </a> -->
 </p>
 
-### Junior Full Stack Developer | Computer Science Student | FLOSS Enthusiast | GNU/Linux Nerd
+<h3 align=center>Junior Full Stack Developer | Computer Science Student | FLOSS Enthusiast | GNU/Linux Nerd</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
