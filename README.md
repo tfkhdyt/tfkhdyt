@@ -53,7 +53,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="30" title="Golang" />
-  <img src="https://presentations.bltavares.com/ouvi-falar-de-rust/ferris.png" height="30" title="Rust" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js" /> -->
   <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" />
@@ -84,6 +83,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" title="C++" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
   <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="30" title="Pascal" />
+  <img src="https://presentations.bltavares.com/ouvi-falar-de-rust/ferris.png" height="30" title="Rust" />
 </span>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
