@@ -35,7 +35,7 @@
 - 👨🏻‍💼 My name is `Taufik Hidayat`
 - 🏠 Live in `Bandung, Indonesia`
 - 👶🏻 Born in `Majalengka, April 1st 2002`
-- 🧍🏻‍♂️ `20` years old
+- 🧍🏻‍♂️ `21` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
 - 🌟 Currently, `SvelteKit` and `Golang` are my favorite tech stack.
 - 🌏 Languages
