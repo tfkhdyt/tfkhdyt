@@ -49,42 +49,48 @@
 
 ### Tech Stack 👨🏻‍💻
 
-<span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" title="TypeScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="30" title="Golang" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" title="React" />
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="30" title="Next.js" /> -->
-  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" title="Next.js" />
-  <img src="https://impicode.com/wp-content/uploads/sites/2/2020/07/187px-Svelte_Logo.svg_.png" height="30" title="Svelte" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
-  <img src="https://i.postimg.cc/1zY3VDPL/mantine.png" height="30" title="Mantine UI" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" title="Node.js" />
-  <img src="https://expressjs.com/images/favicon.png" height="30" title="Express.js" />
-  <img src="https://cdn-images.threadless.com/threadless-media/artist_shops/shops/hapi/profile/logo-1570768754-a51532d05eb8460747b7207862c647ab.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJyZXNpemUiLCBbMzUwXSwge31dXX0=" height="30" title="Hapi.js" />
-  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="30" title="NestJS" />
-  <img src="https://telegraf.js.org/media/logo.svg" height="30" title="Telegraf" />
-  <img src="https://wwebjs.dev/logo.png" height="30" title="WhatsApp-Web.js" />
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" height="30" title="Gin" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
-  <img src="images/icons/mongo.svg" height="30" title="MongoDB" />
-  <img src="https://www.silicon.de/wp-content/uploads/2014/12/MariaDB-reflex-blue-seal-blue-lettering-below-600px.png" height="30" title="MariaDB" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
-  <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="30" title="Redis" />
-  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker" />
-</span>
+#### Languages
 
-### Basic Experience 📖
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
+![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white)
 
-<span>
-  <img src="images/icons/jquery.svg" height="30" title="jQuery" />
-  <img src="https://raw.githubusercontent.com/tfkhdyt/web-portfolio/main/public/icons/java.svg" height="30" title="Java" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30" title="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" title="C++" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
-  <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="30" title="Pascal" />
-  <img src="https://presentations.bltavares.com/ouvi-falar-de-rust/ferris.png" height="30" title="Rust" />
-</span>
+#### Front-end
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=Alpine.js&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=UnoCSS&logoColor=white)
+
+#### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=Fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=tRPC&logoColor=white)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+
+#### Operating System
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=ArchLinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -97,10 +103,10 @@
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
     - `Kernel` - 6.2
-    - `WM` - dwm
+    - `WM` - Hyprland
 - `Text Editor` - Neovim (LazyVim)
 - `Browser` - LibreWolf, Brave
-- `Terminal` - st
+- `Terminal` - Alacritty
 - `Shell` - fish
 - `Mobile Phone` - Realme 3 Pro
   - `Operating System` - Android 13
