@@ -120,7 +120,7 @@
 
 | WakaTime Stats | Most Used Languages |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact&langs_count=10&range=all_time&range=all_timehttps://wakatime.com/@tfkhdyt" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
