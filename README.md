@@ -1,8 +1,8 @@
 [![tfkhdyt's header](./images/tfkhdyt-banner-16-3.jpg)](https://tfkhdyt.my.id/)
 
 <p align=center>
-  <a rel="me" href="https://fosstodon.org/@tfkhdyt">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" />
+  <a rel="me" href="https://kalckey.com/@tfkhdyt">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" />
   </a>&nbsp;
   <a href="https://t.me/tfkhdyt">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
@@ -21,12 +21,13 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
   <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
+  <a href="https://user-badge.committers.top/indonesia/tfkhdyt"><img src="https://user-badge.committers.top/indonesia/tfkhdyt.svg" alt="committers.top badge"></a>
   <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
   <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
   <!-- </a> -->
 </p>
 
-<h3 align=center>Junior Full Stack Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
+<h3 align=center>Junior Back End Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -37,7 +38,7 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `21` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `SvelteKit` and `Golang` are my favorite tech stack.
+- 🌟 Currently, `Next.js` and `Golang` are my favorite tech stack.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
@@ -89,26 +90,24 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
+Check the detail [here ››](https://tfkhdyt.my.id/skills)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Equipment 🧰
 
 - `Laptop` - Lenovo Ideapad Slim 3
   - `CPU` - AMD Ryzen 3 5300U
-  - `RAM` - 8GB DDR4 3200MHz
+  - `RAM` - 12GB DDR4 3200MHz
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.3
+    - `Kernel` - 6.1
     - `WM` - Hyprland
 - `Text Editor` - Neovim (LazyVim)
 - `Browser` - LibreWolf, Brave
 - `Terminal` - Foot
 - `Shell` - Fish
-- `Mobile Phone` - Realme 3 Pro
-  - `Operating System` - Android 13
-    - `Custom ROM` - Nusantara Project 5.5
-    - `Kernel` - Liquid
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -121,15 +120,3 @@
 | WakaTime Stats | Most Used Languages |
 | --- | --- |
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tfkhdyt&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Support 💰
-
-Press the button below to support me via donation
-
-<p align="center">
-  <a href="https://donate.tfkhdyt.my.id/">
-    <img src="https://i.postimg.cc/jjRDbZQx/1621036430601.png" width="125px">
-  </a>
-</p>
