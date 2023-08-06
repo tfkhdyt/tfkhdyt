@@ -1,4 +1,4 @@
-[![tfkhdyt's header](./images/tfkhdyt-banner-16-3.jpg)](https://tfkhdyt.my.id/)
+[![tfkhdyt's header](./images/readmebox_tfkhdyt.svg)](https://tfkhdyt.my.id/)
 
 <p align=center>
   <a rel="me" href="https://kalckey.com/@tfkhdyt">
