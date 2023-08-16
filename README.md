@@ -1,7 +1,7 @@
 [![tfkhdyt's header](./images/readmebox_tfkhdyt.svg)](https://tfkhdyt.my.id/)
 
 <p align=center>
-  <a rel="me" href="https://kalckey.com/@tfkhdyt">
+  <a rel="me" href="https://mstdn.id/@tfkhdyt">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" />
   </a>&nbsp;
   <a href="https://t.me/tfkhdyt">
