@@ -102,12 +102,11 @@ Check the detail [here ››](https://tfkhdyt.my.id/skills)
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.1
+    - `Kernel` - 6.5
     - `WM` - Hyprland
 - `Text Editor` - Neovim (LazyVim)
 - `Browser` - LibreWolf, Brave
-- `Terminal` - Foot
-- `Shell` - Fish
+- `Terminal` - Alacritty
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
