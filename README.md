@@ -38,7 +38,7 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `21` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `Next.js` and `Golang` are my favorite tech stack.
+- 🌟 Currently, `Rust` and `Golang` are my favorite tech stack.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
@@ -70,6 +70,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=Fastify&logoColor=white)
@@ -104,8 +106,8 @@ Check the detail [here ››](https://tfkhdyt.my.id/skills)
     - `Distro` - EndeavourOS
     - `Kernel` - 6.5
     - `WM` - Hyprland
-- `Text Editor` - Neovim (LazyVim)
-- `Browser` - LibreWolf, Brave
+- `Text Editor` - VSCodium, Neovim (LazyVim)
+- `Browser` - Brave, LibreWolf
 - `Terminal` - Alacritty
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
