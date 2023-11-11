@@ -56,10 +56,10 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.5
+    - `Kernel` - 6.6
     - `WM` - Hyprland
 - `Text Editor` - VSCodium, Neovim (LazyVim)
-- `Browser` - Thorium, LibreWolf
+- `Browser` - Ungoogled Chromium, LibreWolf
 - `Terminal` - Alacritty
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
