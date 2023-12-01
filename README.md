@@ -57,10 +57,10 @@
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
     - `Kernel` - 6.6
-    - `WM` - Hyprland
+    - `WM` - SwayWM
 - `Text Editor` - VSCodium, Neovim (LazyVim)
-- `Browser` - Ungoogled Chromium, LibreWolf
-- `Terminal` - Alacritty
+- `Browser` - Brave, LibreWolf
+- `Terminal` - Foot Terminal
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
