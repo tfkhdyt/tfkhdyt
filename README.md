@@ -27,7 +27,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align=center>Junior Back End Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
+<h3 align=center>Junior Full Stack Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -38,7 +38,7 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `21` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `Rust` and `Golang` are my favorite tech.
+- 🌟 Currently, `Rust` and `TypeScript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
