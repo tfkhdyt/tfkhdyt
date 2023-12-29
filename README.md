@@ -1,6 +1,10 @@
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
 
-[![tfkhdyt's header](./images/readmebox_tfkhdyt.svg)](https://tfkhdyt.my.id/)
+<a href='https://tfkhdyt.my.id'>
+  <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
+</a>
 
 <p align=center>
   <a rel="me" href="https://mstdn.id/@tfkhdyt">
