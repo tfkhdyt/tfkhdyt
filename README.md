@@ -33,7 +33,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align=center>Junior Full Stack Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
+<h3 align=center>Full Stack Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -44,7 +44,7 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `21` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `Rust` and `TypeScript` are my favorite tech.
+- 🌟 Currently, `Golang`, `Rust`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
@@ -65,7 +65,7 @@
     - `Kernel` - 6.6
     - `WM` - SwayWM
 - `Text Editor` - VSCodium, Neovim (LazyVim)
-- `Browser` - Brave, LibreWolf
+- `Browser` - LibreWolf, Brave
 - `Terminal` - Foot Terminal
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
