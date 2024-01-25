@@ -62,9 +62,9 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.6
-    - `WM` - SwayWM
-- `Text Editor` - VSCodium, Neovim (LazyVim)
+    - `Kernel` - 6.7
+    - `WM` - Hyprland
+- `Text Editor` - Neovim (LazyVim), VSCodium
 - `Browser` - LibreWolf, Brave
 - `Terminal` - Foot Terminal
 
