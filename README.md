@@ -42,7 +42,7 @@
 - 👨🏻‍💼 My name is `Taufik Hidayat`
 - 🏠 Live in `Bandung, Indonesia`
 - 👶🏻 Born in `Majalengka, April 1st 2002`
-- 🧍🏻‍♂️ `21` years old
+- 🧍🏻‍♂️ `22` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
 - 🌟 Currently, `Golang`, `Rust`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
@@ -54,6 +54,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### Skill Set
+
+#### Front-end
+
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,react,svelte,tailwind)](https://skillicons.dev)
+
+#### Back-end
+
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,go,rust,express,nestjs,adonis)](https://skillicons.dev)
+
+#### Full Stack
+
+[![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs,remix,astro)](https://skillicons.dev)
+
+#### Database
+
+[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)](https://skillicons.dev)
+
+#### Devops
+
+[![My Devops Skills](https://skillicons.dev/icons?i=docker,githubactions,nginx,linux)](https://skillicons.dev)
+
 ### Equipment 🧰
 
 - `Laptop` - Lenovo Ideapad Slim 3
@@ -62,7 +84,7 @@
   - `GPU` - AMD Vega 6
   - `Operating System` - GNU/Linux
     - `Distro` - EndeavourOS
-    - `Kernel` - 6.7
+    - `Kernel` - 6.8
     - `WM` - Hyprland
 - `Text Editor` - Neovim (LazyVim), VSCodium
 - `Browser` - LibreWolf, Brave
