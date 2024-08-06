@@ -1,19 +1,17 @@
 <a href='https://github.com/Safouene1/support-palestine-banner'>
-  <img src='https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg' alt='Support Palestine' width='100%' />
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 
-<a href='https://tfkhdyt.my.id'>
+<h1 align='center'>
+  Taufik Hidayat
+</h1>
+
+<!-- <a href='https://tfkhdyt.my.id'>
   <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
-</a>
+</a> -->
 
 <p align=center>
-  <a rel="me" href="https://mstdn.id/@tfkhdyt">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" />
-  </a>&nbsp;
-  <a href="https://t.me/tfkhdyt">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
-  </a>&nbsp;
-  <a href="https://facebook.com/tfkhdyt142">
+<a href="https://facebook.com/tfkhdyt142">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>&nbsp;
   <a href="https://youtube.com/tfkhdyt">
@@ -33,7 +31,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align=center>Full Stack Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
+<h3 align=center>Full Stack Developer | Computer Science Student | Linux Enthusiast</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -44,7 +42,7 @@
 - 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `22` years old
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `Golang`, `Rust`, and `TypeScript` are my favorite tech.
+- 🌟 Currently, `Golang`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
@@ -78,20 +76,20 @@
 
 ### Equipment 🧰
 
-- `Laptop` - Lenovo Ideapad Slim 3
-  - `CPU` - AMD Ryzen 3 5300U
-  - `RAM` - 12GB DDR4 3200MHz
-  - `GPU` - AMD Vega 6
+- `Laptop` - Lenovo ThinkPad T470
+  - `CPU` - Intel Core i5-7300U
+  - `RAM` - 16 GB
+  <!-- - `GPU` - AMD Vega 6 -->
   - `Operating System` - GNU/Linux
-    - `Distro` - EndeavourOS
-    - `Kernel` - 6.8
+    - `Distro` - NixOS
+    - `Kernel` - 6.10
     - `WM` - Hyprland
-- `Text Editor` - Neovim (LazyVim), VSCodium
-- `Browser` - LibreWolf, Brave
-- `Terminal` - Foot Terminal
+- `Text Editor` - VSCodium, Neovim (Nixvim)
+- `Browser` - Brave, Firefox
+- `Terminal` - Alacritty
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Stats 📋
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p>
