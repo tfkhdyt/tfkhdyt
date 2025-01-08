@@ -51,6 +51,6 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: push, issue, pr, release, comment
           plugin_traffic: yes
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
