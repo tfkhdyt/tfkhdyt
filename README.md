@@ -31,7 +31,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align=center>Full Stack Developer | Computer Science Student | Linux Enthusiast</h3>
+<h3 align=center>Software Developer and Linux Enthusiast</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -39,10 +39,8 @@
 
 - 👨🏻‍💼 My name is `Taufik Hidayat`
 - 🏠 Live in `Bandung, Indonesia`
-- 👶🏻 Born in `Majalengka, April 1st 2002`
 - 🧍🏻‍♂️ `22` years old
-- 💻 `Computer Science` Student at `Universitas Bale Bandung`
-- 🌟 Currently, `Golang`, and `TypeScript` are my favorite tech.
+- 🌟 Currently, `TypeScript`, `Adonis`, and `React Router 7` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
@@ -52,28 +50,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Skill Set
-
-#### Front-end
-
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,react,svelte,tailwind)](https://skillicons.dev)
-
-#### Back-end
-
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,bun,go,rust,express,nestjs,adonis)](https://skillicons.dev)
-
-#### Full Stack
-
-[![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs,remix,astro)](https://skillicons.dev)
-
-#### Database
-
-[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)](https://skillicons.dev)
-
-#### Devops
-
-[![My Devops Skills](https://skillicons.dev/icons?i=docker,githubactions,nginx,linux)](https://skillicons.dev)
-
 ### Equipment 🧰
 
 - `Laptop` - Lenovo ThinkPad T470
@@ -82,11 +58,11 @@
   <!-- - `GPU` - AMD Vega 6 -->
   - `Operating System` - GNU/Linux
     - `Distro` - NixOS
-    - `Kernel` - 6.10
-    - `WM` - Hyprland
-- `Text Editor` - VSCodium, Neovim (Nixvim)
-- `Browser` - Brave, Firefox
-- `Terminal` - Alacritty
+    - `Kernel` - 6.6 (LTS)
+    - `DE` - GNOME
+- `Text Editor` - Visual Studio Code, Neovim (Nixvim)
+- `Browser` - Firefox, Brave
+- `Terminal` - Ghostty
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
