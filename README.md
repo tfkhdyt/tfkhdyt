@@ -2,6 +2,8 @@
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 
+<h2 align=center>Taufik Hidayat - Software Developer and Linux Enthusiast</h2>
+
 <!--
 <h1 align='center'>
   Taufik Hidayat
@@ -31,8 +33,6 @@
   <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
   <!-- </a> -->
 </p>
-
-<h3 align=center>Taufik Hidayat - Software Developer and Linux Enthusiast</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
