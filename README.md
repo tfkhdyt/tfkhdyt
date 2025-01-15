@@ -2,11 +2,12 @@
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 
+<!--
 <h1 align='center'>
   Taufik Hidayat
 </h1>
 
-<!-- <a href='https://tfkhdyt.my.id'>
+<a href='https://tfkhdyt.my.id'>
   <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
 </a> -->
 
@@ -31,7 +32,7 @@
   <!-- </a> -->
 </p>
 
-<h3 align=center>Software Developer and Linux Enthusiast</h3>
+<h3 align=center>Taufik Hidayat - Software Developer and Linux Enthusiast</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -64,8 +65,11 @@
 - `Browser` - Firefox, Brave
 - `Terminal` - Ghostty
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
+<!-- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### Stats 📋
 
-<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p>
+<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p> -->
