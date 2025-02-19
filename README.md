@@ -53,7 +53,7 @@
 
 ### Equipment 🧰
 
-- PC
+- `PC`
   - `CPU` - AMD Ryzen 7 8700F
   - `RAM` - 32 GB DDR5
   - `GPU` - AMD Radeon RX 6600
