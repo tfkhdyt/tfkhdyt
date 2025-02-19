@@ -53,16 +53,16 @@
 
 ### Equipment 🧰
 
-- `Laptop` - Lenovo ThinkPad T470
-  - `CPU` - Intel Core i5-7300U
-  - `RAM` - 16 GB
-  <!-- - `GPU` - AMD Vega 6 -->
+- PC
+  - `CPU` - AMD Ryzen 7 8700F
+  - `RAM` - 32 GB DDR5
+  - `GPU` - AMD Radeon RX 6600
   - `Operating System` - GNU/Linux
-    - `Distro` - NixOS
-    - `Kernel` - 6.6 (LTS)
-    - `DE` - GNOME
-- `Text Editor` - Visual Studio Code, Neovim (Nixvim)
-- `Browser` - Firefox, Brave
+    - `Distro` - Linux Mint
+    - `Kernel` - 6.8
+    - `DE` - Cinnamon
+- `Text Editor` - Neovim (LazyVim), Visual Studio Code
+- `Browser` - Brave, Firefox
 - `Terminal` - Ghostty
 
 
