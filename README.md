@@ -1,4 +1,4 @@
-<a href='https://github.com/Safouene1/support-palestine-banner'>
+<a href='https://www.bdsmovement.net/'>
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 
@@ -39,9 +39,9 @@
 ### About Me 👨🏻
 
 - 👨🏻‍💼 My name is `Taufik Hidayat`
-- 🏠 Live in `Bandung, Indonesia`
+- 🏠 Based in `Bandung, Indonesia`
 - 🧍🏻‍♂️ `22` years old
-- 🌟 Currently, `TypeScript`, `Adonis`, and `React Router 7` are my favorite tech.
+- 🌟 Currently, `TypeScript`, `Svelte`, and `Golang` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇮🇩 Sundanese
@@ -50,6 +50,22 @@
 - 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Top Repositories 🤖
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=geminicommit&theme=tokyonight)](https://github.com/tfkhdyt/geminicommit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=yukitanya&theme=tokyonight)](https://github.com/tfkhdyt/yukitanya)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=remove-biji&theme=tokyonight)](https://github.com/tfkhdyt/remove-biji)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=minipom&theme=tokyonight)](https://github.com/tfkhdyt/minipom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=wa-sticker-bot&theme=tokyonight)](https://github.com/tfkhdyt/wa-sticker-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=roastgithub&theme=tokyonight)](https://github.com/tfkhdyt/roastgithub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=whatsapp-link-generator&theme=tokyonight)](https://github.com/tfkhdyt/whatsapp-link-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=auto-epp-rs&theme=tokyonight)](https://github.com/tfkhdyt/auto-epp-rs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=pondokeun&theme=tokyonight)](https://github.com/tfkhdyt/pondokeun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=urban-cli&theme=tokyonight)](https://github.com/tfkhdyt/urban-cli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tfkhdyt&repo=with-catch&theme=tokyonight)](https://github.com/tfkhdyt/with-catch)
+
+<!--
 
 ### Equipment 🧰
 
@@ -65,6 +81,7 @@
 - `Browser` - Brave, Firefox
 - `Terminal` - Ghostty
 
+ -->
 
 
 
