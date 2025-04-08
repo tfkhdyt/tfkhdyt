@@ -40,7 +40,7 @@
 
 - 👨🏻‍💼 My name is `Taufik Hidayat`
 - 🏠 Based in `Bandung, Indonesia`
-- 🧍🏻‍♂️ `22` years old
+- 🧍🏻‍♂️ `23` years old
 - 🌟 Currently, `TypeScript`, `Svelte`, and `Golang` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
