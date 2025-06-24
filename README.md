@@ -16,7 +16,7 @@ Software Developer and Linux Enthusiast
 💻 **OS:** Linux Mint  
 🎮 **Hobbies:** Gaming, Coding, Reading \
 🌐 **Languages:** Indonesian, Sundanese, English \
-🔧 **Tools:** Cursor, Ghostty, Fish Shell, Neovim
+🔧 **Tools:** Cursor, Kitty Terminal, Fish Shell, Neovim
 
 ## Connect
 
