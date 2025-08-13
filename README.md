@@ -4,7 +4,7 @@
 
 # Taufik Hidayat
 
-Software Developer and Linux Enthusiast
+Software Developer, Linux Enthusiast, and Hobby Cyclist
 
 ## About Me
 
