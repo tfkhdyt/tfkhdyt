@@ -10,19 +10,13 @@ Software Developer and Linux Enthusiast
 
 👨🏻‍💼 **Name:** Taufik Hidayat  
 🏠 **Location:** Bandung, Indonesia  
-🧍🏻‍♂️ **Age:** 23  
 🌟 **Favorite Tech:** TypeScript, Svelte, Golang, Rust \
-🎓 **Education:** Bachelor's in Computer Science  
-💻 **OS:** Linux Mint  
-🎮 **Hobbies:** Gaming, Coding, Reading \
-🌐 **Languages:** Indonesian, Sundanese, English \
-🔧 **Tools:** Cursor, Kitty Terminal, Fish Shell, Neovim
+🎮 **Hobbies:** Cycling, Gaming, Reading  \
+🌐 **Languages:** Indonesian, Sundanese, English
 
 ## Connect
 
 <p align="center">
-  <a href="https://facebook.com/tfkhdyt142"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://youtube.com/tfkhdyt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.linkedin.com/mwlite/in/taufik-hidayat-6793aa200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/_tfkhdyt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
